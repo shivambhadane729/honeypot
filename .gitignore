@@ -1,0 +1,25 @@
+# Dependencies
+**/node_modules/
+**/logs/
+
+# Environment
+.env
+
+# ML datasets and models
+*.csv
+*.pkl
+*.h5
+data/
+saved_models/
+__pycache__/
+
+# Logs
+*.log
+
+# Build (React/Vue/etc.)
+build/
+dist/
+
+# Large frontend libs
+*.map
+
